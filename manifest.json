@@ -1,0 +1,11 @@
+{
+	"name": "Speech Input",
+	"version": "1.0",
+	"description": "Omnibox Speech Input",
+	"icons": {"128": "icon.png"},
+	"page_action": {
+		"default_icon": "pageaction.png",
+		"default_title": "Speech Input",
+		"default_popup": "popup.html"
+	}
+}
